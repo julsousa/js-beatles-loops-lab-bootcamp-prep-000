@@ -10,6 +10,6 @@ function iLoveTheBeatles(n) {
   } else if (n ===17) {
     return "I love the beetles"
   } else {
-    return """
+    return ""
   }
 }
