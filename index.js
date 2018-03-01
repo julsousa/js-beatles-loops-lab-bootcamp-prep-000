@@ -4,4 +4,6 @@ function theBeatlesPay(musicians, instruments){
 function johnLennonFacts(facts) {
   
 }  
-function 
+function iLoveTheBeatles(n) {
+  
+}
