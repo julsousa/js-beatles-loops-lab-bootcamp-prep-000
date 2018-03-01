@@ -14,8 +14,16 @@ function johnLennonFacts(facts) {
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"
   ]
-  while facts
-}  
+ var newFacts = [];
+  var i = 0
+    while (i < facts.length) {
+        newFacts.push(facts[i] + "!!!")
+        i++;
+  }
+  return newFacts;
+} 
+
+
 function iLoveTheBeatles(n) {
   if (n === 7) {
     return "I love the beetles"
