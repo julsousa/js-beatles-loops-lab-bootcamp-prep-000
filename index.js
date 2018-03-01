@@ -19,6 +19,7 @@ function johnLennonFacts(facts) {
 
 
 function iLoveTheBeatles(n) {
+  var array = [];
   if (n === 7) {
     return "I love the beetles";
   } else if (n === 17) {
