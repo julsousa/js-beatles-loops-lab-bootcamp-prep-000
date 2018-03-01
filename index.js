@@ -1,0 +1,2 @@
+function theBeatlesPay(musicians, instruments)[
+  ]
