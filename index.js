@@ -20,11 +20,9 @@ function johnLennonFacts(facts) {
 
 function iLoveTheBeatles(n) {
   var array = [];
-  if (n === 7) {
-    return "I love the beetles";
-  } else if (n === 17) {
-    return "I love the beetles";
-  } else {
-    return "";
-  }
+  do {
+    array.push("I love the beetles");
+    n==;
+  } while (num < 15);
+    return array;
 }
