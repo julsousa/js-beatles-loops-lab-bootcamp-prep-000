@@ -1,4 +1,4 @@
-function theBeatlesPay(musicians, instruments){
+function theBeatlesPlay(musicians, instruments){
   
 }
 function johnLennonFacts(facts) {
