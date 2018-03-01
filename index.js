@@ -1,2 +1,4 @@
-function theBeatlesPay(musicians, instruments)[
-  ]
+function theBeatlesPay(musicians, instruments){
+  
+}
+  
